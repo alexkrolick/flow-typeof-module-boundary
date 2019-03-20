@@ -1,0 +1,11 @@
+{
+  "name": "flow-typeof-module-boundary",
+  "version": "1.0.0",
+  "license": "MIT",
+  "devDependencies": {
+    "flow-bin": "^0.95.1"
+  },
+  "scripts": {
+    "test": "flow"
+  }
+}
